@@ -10,6 +10,6 @@ MNSU is partnered with a global consortium of astrophysicists to complete the la
 
 # Extragalactic Instagram Imaging
 
-We provided a screenshot of the @UVC_BOT Instagram feed, which will be offically launched in Winder 2022.
+We provided a screenshot of the @UVC_BOT Instagram feed, which will be offically launched in Winter 2022.
 
 ![image](https://user-images.githubusercontent.com/57543978/197443396-f1bab81f-b7fb-42fc-914e-a450977007a0.png)
